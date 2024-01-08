@@ -3,5 +3,6 @@
 [
 {“Name”: “Pira”},
 {“Name”: “Fibs”},
-{“Name”: “Baks”}
+{“Name”: “Baks”},
+{"Name": "Cat"}
 ]
