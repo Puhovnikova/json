@@ -5,4 +5,10 @@
 {“Name”: “Fibs”},
 {“Name”: “Baks”},
 {"Name": "Cat"}
+],
+
+{"Color":
+[
+{"Pira": "brown"},
+{"Fibs": "black"}
 ]
